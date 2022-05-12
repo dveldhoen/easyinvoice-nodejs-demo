@@ -10,6 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "easyinvoice": "^1.0.142"
+    "easyinvoice": "^2.3.0"
   }
 }
